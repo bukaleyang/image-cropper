@@ -49,8 +49,8 @@
     "useCompilerPlugins": false
   },
   "compileType": "miniprogram",
-  "libVersion": "2.15.0",
-  "appid": "wx2c384381a878fc03",
+  "libVersion": "3.8.11",
+  "appid": "",
   "projectname": "image-cropper",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
